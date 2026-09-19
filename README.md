@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💙 AKSHAYA B
+#  AKSHAYA B💙
 
 ### Artificial Intelligence & Data Science Student
 
